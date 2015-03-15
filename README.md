@@ -14,7 +14,7 @@ Optional flags allow the user to:
 Program usage is as follows:
 
 ```
-map_count -f|fasta FASTA file -s|sam SAM file -o|output tabular text file 
+map_count -f|fasta FASTA file -s|sam SAM file -o|output text file 
          [-t|trim] [-l|length 25] [-p|pair]
 ```
 ```
