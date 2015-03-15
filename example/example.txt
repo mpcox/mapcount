@@ -1,0 +1,29 @@
+id	count
+comp18396_c1_seq1 len=831 path=[2314:0-372 536:373-830]	0
+comp18530_c0_seq1 len=1406 path=[683:0-1405]	0
+comp19034_c0_seq1 len=202 path=[1:0-105 107:106-201]	0
+comp20216_c0_seq1 len=272 path=[274:0-271]	0
+comp24014_c4_seq1	4
+comp24016_c0_seq3	2
+comp25592_c0_seq1	2
+comp25670_c0_seq2	2
+comp26957_c0_seq1	2
+comp28051_c0_seq1	2
+comp28264_c4_seq6	2
+comp28691_c0_seq5	2
+comp29950_c0_seq1	2
+comp31708_c0_seq1	2
+comp32352_c0_seq1	2
+comp33070_c1_seq1	1
+comp33371_c0_seq1	2
+comp34004_c2_seq1	2
+comp34119_c0_seq1	2
+comp34451_c0_seq1	2
+comp34918_c0_seq1	2
+comp35017_c1_seq1	2
+comp35646_c0_seq1	2
+comp36515_c0_seq1	2
+comp37558_c0_seq1	2
+comp37852_c0_seq10	2
+comp37852_c0_seq21	2
+comp38710_c0_seq1	1
