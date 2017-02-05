@@ -1,0 +1,8 @@
+title: mapcount
+description: Counts read hits against a reference gene set
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
