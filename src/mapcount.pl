@@ -3,7 +3,7 @@
 # Program: mapcount.pl v.2.2
 # Count mapping hits against reference fasta (SAM file)
 # Murray Cox (with some code contributions by Daniel Peterson)
-# <m.p.cox@massey.ac.nz>
+# <murray.p.cox@gmail.com>
 # March 2015 (code modified from September 2009 onward)
 
 use strict;
